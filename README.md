@@ -4,9 +4,6 @@ Dataset and Codebase for Evaluation of In-Person Counseling Strategies To Develo
 ## Dataset
 The simulated dialog is under directory `data/`.
 
-## Annotation Scheme
-
-
 ## Strategy Classifier
 The strategy ckassufuer is under directory `classufuer/`.
 
