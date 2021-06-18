@@ -6,7 +6,7 @@ The simulated dialog is under directory `data/`.
 Since releasing the original interview data is not approved by our IRB and HIPPA, we created 44 dialogs (772 sentences) based on the original interview daialog for our community to use.
 
 ## Annotation Scheme
-The annotation scheme guidelines can be found under `annotation_scheme/`.
+The annotation scheme guidelines can be found under `Annotation Scheme.pdf`.
 
 ## Strategy Classifier
 The strategy ckassufuer is under directory `classifier/`.
