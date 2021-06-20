@@ -9,6 +9,6 @@ Since releasing the original interview data is not approved by our IRB and HIPPA
 The annotation scheme guidelines can be found under `Annotation Scheme.pdf`.
 
 ## Strategy Classifier
-The strategy ckassufuer is under directory `classifier/`.
+The code of the strategy classifier is under directory `classifier/`.
 
 
