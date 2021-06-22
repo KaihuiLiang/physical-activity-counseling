@@ -10,6 +10,10 @@ The annotation scheme guidelines can be found under `Annotation Scheme.pdf`.
 
 ## Strategy Classifier
 The code of the strategy classifier is under directory `classifier/`.  
-To use the fine-tuned model for strategy prediction, please download `training_args.bin`from [here](https://drive.google.com/file/d/13GWO8Nwby7MmL15Hq1aUccJ-kQhsYI85/view?usp=sharing) and `optimizer.pt` from [here](https://drive.google.com/file/d/1RCAHRLoq4iujWBRmzHhTwbgpo0w_DEfy/view?usp=sharing) and put them under the `classifier/models/strategy`folder.
+
+To use the fine-tuned model for strategy prediction, please download `training_args.bin`from [here](https://drive.google.com/file/d/13GWO8Nwby7MmL15Hq1aUccJ-kQhsYI85/view?usp=sharing) and `optimizer.pt` from [here](https://drive.google.com/file/d/1RCAHRLoq4iujWBRmzHhTwbgpo0w_DEfy/view?usp=sharing) and put them under the `classifier/models/strategy`folder.  
+
+More details are provided in the `classifier/README.md` file.
+
 
 
