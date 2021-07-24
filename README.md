@@ -10,8 +10,7 @@ If you would like to refer to our work, please cite the following BibTex entry:
   title={Evaluation of In-Person Counseling Strategies To Develop Physical Activity Chatbot for Women},
   journal={arXiv preprint arXiv:2107.10410},
   year={2021}
-}
-
+  }
 ```
 
 ## Dataset
