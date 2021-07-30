@@ -8,7 +8,8 @@ If you would like to refer to our work, please cite the following BibTex entry:
   @inproceedings{liang2021evaluation,
   author={Kai-Hui Liang, Patrick Lange, Yoo Jung Oh, Jingwen Zhang, Yoshimi Fukuoka, Zhou Yu},
   title={Evaluation of In-Person Counseling Strategies To Develop Physical Activity Chatbot for Women},
-  journal={arXiv preprint arXiv:2107.10410},
+  journal={Proceedings of the 22nd Annual Meeting of the Special Interest Group on Discourse and Dialogue},
+  pages={32--44},
   year={2021}
   }
 ```
